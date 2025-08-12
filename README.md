@@ -6,10 +6,10 @@ Findings can help **coaches** make programs more competitive and inform **OHSAA*
 
 ## 📊 Data
 - **Sources:**
-  - Ohio Department of Education – 2021 enrollment
-  - U.S. Census – 5-year demographic estimates 
-  - OHSAA – 2017-2021 State meet results
-  - Baum’s Page – 2017-2021 istrict & regional meet results
+  - [Ohio Department of Education](https://education.ohio.gov/Topics/Data/Frequently-Requested-Data/Enrollment-Data) – 2021 enrollment
+  - [U.S. Census](https://data.census.gov/) – 5-year demographic estimates 
+  - [OHSAA](https://www.ohsaa.org/sports/cc/pastresults) – 2017-2021 State meet results
+  - [Baum's Page](https://www.baumspage.com/cc/index.php) – 2017-2021 district & regional meet results
 - **Description:**
   - **Education:** `DIST_IRN`, `DIST_NAME`, `BLDG_IRN`, `BLDG_NAME`, `PRESCHOOL`…`GRADE_12` (enrollment by grade)
   - **Census:** median household income, population density, race/ethnicity (2020 5-year estimates)
