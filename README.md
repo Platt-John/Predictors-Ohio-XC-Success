@@ -25,6 +25,7 @@ Findings can help **coaches** make programs more competitive and inform **OHSAA*
 - **Statistics:** Correlations and scatterplots; comparative boxplots across divisions/locale types.
 
 ## 📈 Results
+![XC Performance by School District](figures/Screenshot-2025-08-12-130937.png)
 - **Division I:** Larger enrollments and **higher household income** areas are associated with better team performance; the relationship weakens in **Divisions II–III**.
 - **Locale effects:** **Suburban** programs tend to outperform; **dense urban** programs show the lowest performance on average.
 - **Socioeconomics:** **Lower poverty** correlates with higher team performance.
