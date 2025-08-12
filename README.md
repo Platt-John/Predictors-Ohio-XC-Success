@@ -1,7 +1,6 @@
 # 🏃 Predictors of Ohio High School Cross Country Success
 
 ## 📌 Overview
-[State the goal of the analysis, why it matters, and the main questions being addressed.]
 The goal of this project was to determine the top predictors of Ohio high school cross country running success, considering demographics such as high school enrollment size, 
 socioeconomic status, and population density. Through this predictive analysis, we reveal to Ohio high school cross country coaches on how they can make their program more competitive, and
 to OHSAA (Ohio High School Athletic Association) on how they can make cross country competition more fair. 
